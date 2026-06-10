@@ -125,20 +125,17 @@ Vite + React, self-hosted on a single VPS behind Cloudflare. Includes a small in
 
 ---
 
-### Numbers
+### Numbers <sub><i>just getting started — these will grow.</i></sub>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zyvexx7&hide_title=true&hide_border=true&bg_color=F7F5EF&title_color=1A1815&text_color=5A5853&icon_color=1D4ED8&hide=issues" alt="GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyvexx7&hide_border=true&bg_color=F7F5EF&title_color=1A1815&text_color=5A5853&layout=compact&langs_count=6&hide=html,css" alt="Top languages" height="170" />
-
 <br />
 
-<img src="https://streak-stats.demolab.com?user=zyvexx7&hide_border=true&background=F7F5EF&stroke=CBC8C0&ring=1D4ED8&fire=1D4ED8&currStreakLabel=1A1815&sideLabels=1A1815&dates=5A5853&currStreakNum=1A1815&sideNums=1A1815" alt="GitHub streak" height="170" />
+<img src="https://streak-stats.demolab.com?user=zyvexx7&hide_border=true&background=F7F5EF&stroke=CBC8C0&ring=1D4ED8&fire=1D4ED8&currStreakLabel=1A1815&sideLabels=1A1815&dates=5A5853&currStreakNum=1A1815&sideNums=1A1815" alt="GitHub streak" height="180" />
 
-<br />
+<br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zyvexx7&bg_color=F7F5EF&color=1A1815&line=1D4ED8&point=1A1815&area=true&hide_border=true&custom_title=Contribution+activity&area_color=DBE4FF" alt="Activity graph" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zyvexx7&bg_color=F7F5EF&color=1A1815&line=1D4ED8&point=1A1815&area=true&hide_border=true&custom_title=Contribution+activity&area_color=DBE4FF&radius=12" alt="Activity graph" width="98%" />
 
 </div>
 
